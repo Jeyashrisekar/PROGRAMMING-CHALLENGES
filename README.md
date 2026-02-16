@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0065-valid-number) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0799-champagne-tower](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
