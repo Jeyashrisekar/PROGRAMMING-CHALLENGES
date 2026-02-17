@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0065-valid-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3714-longest-balanced-substring-ii) |
@@ -117,6 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
