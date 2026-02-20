@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0799-champagne-tower](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,6 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
