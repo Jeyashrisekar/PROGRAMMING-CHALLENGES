@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
