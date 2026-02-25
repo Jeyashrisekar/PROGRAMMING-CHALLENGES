@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
+| [1175-prime-arrangements](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1175-prime-arrangements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2235-add-two-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
