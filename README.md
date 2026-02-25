@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2652-sum-multiples](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3099-harshad-number) |
