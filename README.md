@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1534-count-good-triplets) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
+| [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3658-gcd-of-odd-and-even-sums) |
