@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3099-harshad-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
