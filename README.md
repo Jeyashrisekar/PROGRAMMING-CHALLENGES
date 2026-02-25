@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1534-count-good-triplets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1534-count-good-triplets) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2235-add-two-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
