@@ -200,6 +200,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
