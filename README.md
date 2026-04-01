@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
