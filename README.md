@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
@@ -205,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
