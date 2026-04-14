@@ -1,23 +1,20 @@
 class Solution {
     public String dayOfTheWeek(int day, int month, int year) {
-
-        String[] s = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
-
-        int[] m = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-
-        int d = day;
-        for (int i = 1; i < month; i++)  d += m[i];
         
-        if (isLeapYear(year) && month > 2)  d++;
+        if (month < 3) {
+            month += 12;
+            year--;
+        }
 
-        year--;
-        d += (year + (year / 4) - (year / 100) + (year / 400)) % 7;
+        int q = day;
+        int m = month;
+        int K = year % 100;
+        int J = year / 100;
 
-        return s[(d) % 7];
+        int h = (q + (13 * (m + 1)) / 5 + K + (K / 4) + (J / 4) + 5 * J) % 7;
+
+        String[] days = {"Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
+
+        return days[h];
     }
-
-    private boolean isLeapYear(int year) {
-        return (year % 400 == 0) || ((year % 100 != 0) && (year % 4 == 0));
-    }
-
 }
