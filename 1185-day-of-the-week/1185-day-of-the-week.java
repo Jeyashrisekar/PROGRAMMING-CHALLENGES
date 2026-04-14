@@ -8,12 +8,16 @@ class Solution {
         int d = day;
         for (int i = 1; i < month; i++)  d += m[i];
         
-        if ((year % 400 == 0) || ((year % 100 != 0) && (year % 4 == 0)) && month > 2)  d++;
+        if (isLeapYear(year) && month > 2)  d++;
 
         year--;
         d += (year + (year / 4) - (year / 100) + (year / 400)) % 7;
 
         return s[(d) % 7];
+    }
+
+    private boolean isLeapYear(int year) {
+        return (year % 400 == 0) || ((year % 100 != 0) && (year % 4 == 0));
     }
 
 }
