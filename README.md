@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1154-day-of-the-year](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1154-day-of-the-year/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1668-maximum-repeating-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
+| [1154-day-of-the-year](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1175-prime-arrangements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
