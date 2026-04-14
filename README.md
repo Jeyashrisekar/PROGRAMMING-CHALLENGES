@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2235-add-two-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2469-convert-the-temperature) |
