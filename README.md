@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1185-day-of-the-week/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
