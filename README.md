@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1175-prime-arrangements) |
+| [1185-day-of-the-week](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1185-day-of-the-week/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
