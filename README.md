@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1323-maximum-69-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1323-maximum-69-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1323-maximum-69-number/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
