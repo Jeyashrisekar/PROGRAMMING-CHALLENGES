@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
