@@ -5,7 +5,6 @@ class Solution {
         for(int i = 0; i < arr.length; i++){
             int winner = arr[i][0];
             int loser = arr[i][1];
-
             map.putIfAbsent(winner, 0);
             map.put(loser, map.getOrDefault(loser, 0) + 1);
         }
