@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -278,6 +280,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
