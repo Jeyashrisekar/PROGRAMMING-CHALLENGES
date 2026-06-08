@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
