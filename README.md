@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
