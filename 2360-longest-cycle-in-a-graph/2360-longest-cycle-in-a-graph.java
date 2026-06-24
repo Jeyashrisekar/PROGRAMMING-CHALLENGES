@@ -8,7 +8,7 @@ class Solution {
     for (int i = 0; i < edges.length; ++i) {
       if (timeVisited[i] > 0) // If the node has already been visited, skip it
         continue;
-      final int startTime = time; // Record the start time of the current traversal
+      int startTime = time; // Record the start time of the current traversal
       int u = i; // Initialize the current node to the ith node
       // Traverse the graph until the end of the path is reached or a visited node is encountered
       while (u != -1 && timeVisited[u] == 0) {
