@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1534-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 | Problem Name | Difficulty |
