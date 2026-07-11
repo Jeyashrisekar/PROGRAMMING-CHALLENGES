@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0292-nim-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [0507-perfect-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
@@ -259,10 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 ## String Matching
 | Problem Name | Difficulty |
