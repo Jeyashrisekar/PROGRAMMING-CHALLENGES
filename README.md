@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
