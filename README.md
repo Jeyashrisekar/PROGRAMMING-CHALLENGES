@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1148-article-views-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
