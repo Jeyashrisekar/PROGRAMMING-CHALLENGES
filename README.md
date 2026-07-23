@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1148-article-views-i) |
+| [1587-bank-account-summary-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
