@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0290-word-pattern](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
+| [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+| [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0290-word-pattern](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
+| [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Sliding Window
