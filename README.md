@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
+| [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
 | [0799-champagne-tower](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+| [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
