@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0198-house-robber/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0198-house-robber/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
