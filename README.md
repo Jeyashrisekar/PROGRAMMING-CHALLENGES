@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
+| [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
