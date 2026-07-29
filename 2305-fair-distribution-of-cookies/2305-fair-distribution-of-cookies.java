@@ -15,10 +15,11 @@ class Solution {
             min = Math.min(min, max);
             return;
         }
+        int y = cookies[i];
         for(int j = 0; j < k; j++){
-            c[j] += cookies[i];
+            c[j] +=y;
             distribute(i+1, c, cookies, k);
-            c[j]-=cookies[i];
+            c[j]-=y;
         }
 
     }
