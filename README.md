@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
