@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/the-number-of-beautiful-subsets">2597. The Number of Beautiful Subsets</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> of positive integers and a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/the-number-of-beautiful-subsets">2696. The Number of Beautiful Subsets</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> of positive integers and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>A subset of <code>nums</code> is <strong>beautiful</strong> if it does not contain two integers with an absolute difference equal to <code>k</code>.</p>
 
