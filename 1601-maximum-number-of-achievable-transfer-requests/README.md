@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests">1601. Maximum Number of Achievable Transfer Requests</a></h2><h3>Hard</h3><hr><p>We have <code>n</code> buildings numbered from <code>0</code> to <code>n - 1</code>. Each building has a number of employees. It&#39;s transfer season, and some employees want to change the building they reside in.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests">1723. Maximum Number of Achievable Transfer Requests</a></h2><h3>Hard</h3><hr><p>We have <code>n</code> buildings numbered from <code>0</code> to <code>n - 1</code>. Each building has a number of employees. It&#39;s transfer season, and some employees want to change the building they reside in.</p>
 
 <p>You are given an array <code>requests</code> where <code>requests[i] = [from<sub>i</sub>, to<sub>i</sub>]</code> represents an employee&#39;s request to transfer from building <code>from<sub>i</sub></code> to building <code>to<sub>i</sub></code>.</p>
 
