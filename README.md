@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1534-count-good-triplets) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1534-count-good-triplets) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2427-number-of-common-factors) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Tree
