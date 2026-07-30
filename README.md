@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
