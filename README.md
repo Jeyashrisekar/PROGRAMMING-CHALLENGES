@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
