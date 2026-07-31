@@ -20,14 +20,22 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            //int n = q.size();
-            //TreeNode popped = null;
-            // for(int i = 0; i < n; i++){
-            //     popped = q.poll();
-            //     if(popped.left != null) q.add(popped.left);
-            //     if(popped.right != null) q.add(popped.right);
-            // }
-            // l.add(popped.val);
+            int n = q.size();
+            TreeNode popped = null;
+            for(int i = 0; i < n; i++){
+                popped = q.poll();
+                if(popped.left != null) q.add(popped.left);
+                if(popped.right != null) q.add(popped.right);
+            }
+            l.add(popped.val);
+            
+        }
+        return l;
+        
+    }
+}
+/*-------AN ANOTHER INDIRECT APPROACH---
+            while(!q.isEmpty()){
             int s = q.size();
             List<Integer> t = new ArrayList<>();
             for(int i = 0; i < s; i++){
@@ -38,8 +46,4 @@ class Solution {
 
             }
             l.add(t.get(s-1));
-        }
-        return l;
-        
-    }
-}
+            }*/
