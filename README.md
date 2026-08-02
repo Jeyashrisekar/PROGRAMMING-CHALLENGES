@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0980-unique-paths-iii/) | Hard |
+| [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
