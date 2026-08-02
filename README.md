@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0594-longest-harmonious-subsequence) |
