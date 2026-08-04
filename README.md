@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -470,7 +473,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
