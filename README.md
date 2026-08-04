@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 | Problem Name | Difficulty |
