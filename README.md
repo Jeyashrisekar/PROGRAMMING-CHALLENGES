@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0328-odd-even-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
