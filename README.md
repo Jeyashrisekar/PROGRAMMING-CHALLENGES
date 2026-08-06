@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1154-day-of-the-year/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0494-target-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 | [0799-champagne-tower](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1025-divisor-game) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0060-permutation-sequence/) | Hard |
+| [0509-fibonacci-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -508,6 +511,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
