@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0216-combination-sum-iii/) | Medium |
