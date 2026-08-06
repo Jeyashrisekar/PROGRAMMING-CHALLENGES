@@ -14,7 +14,7 @@ class Solution {
             return;
         }
         if (i > n)
-            return;
+        return;
        
         
         t.add(i);
@@ -22,5 +22,6 @@ class Solution {
         t.remove(t.size()-1);
         
         backtrack(l, t, i+1, n, k);
+        
     }
 }
