@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0222-count-complete-tree-nodes/) | Easy |
