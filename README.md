@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
