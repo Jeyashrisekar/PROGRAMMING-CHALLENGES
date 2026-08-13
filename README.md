@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Math
