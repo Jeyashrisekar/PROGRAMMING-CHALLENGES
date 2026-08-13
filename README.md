@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
