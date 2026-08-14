@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
@@ -555,6 +560,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
