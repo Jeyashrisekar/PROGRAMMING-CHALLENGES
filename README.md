@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0908-smallest-range-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
