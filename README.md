@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0636-exclusive-time-of-functions) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0045-jump-game-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/0621-task-scheduler) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0942-di-string-match/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1323-maximum-69-number/) | Easy |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End--> collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
