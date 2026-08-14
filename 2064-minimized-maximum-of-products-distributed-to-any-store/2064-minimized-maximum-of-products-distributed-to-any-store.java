@@ -23,7 +23,7 @@ class Solution {
     public boolean isItpossible(int mid, int[] quantities, int totalstores){
         int storesneeded = 0;
         for(int i = 0; i < quantities.length; i++){
-            storesneeded += (int) Math.ceil((double) quantities[i]/mid);
+            storesneeded +=  Math.ceil((double) quantities[i]/mid);
         }
         return (storesneeded <= totalstores);
 
