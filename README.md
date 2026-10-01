@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3024-type-of-triangle](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
