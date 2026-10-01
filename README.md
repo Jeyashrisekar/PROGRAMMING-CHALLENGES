@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Jeyashrisekar/PROGRAMMING-CHALLENGES/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## Sliding Window
